@@ -1,9 +1,18 @@
-# imersaoDevAlura
+# Find out the secret number
 
 ![image](https://user-images.githubusercontent.com/79667413/137001194-4054ecf3-affa-4139-8ac1-468c46ac5595.png)
 
-Jogo de adivinha desenvolvido no programa "imersão Dev" dispoinibilizado e feito pela Alura, com duração de 1 semana foram feitos alguns projetos com foco principal em Javascrip e usando algumas particularidades do HTML e CSS.
+Find out the secret number game developed in the program "Dev immersion" available and made by Alura, with duration of 1 week were made some projects with main focus on Javascrip and using some particularities of HTML and CSS.
 
-No jogo temos um input que o usuário poderá escolher do número 0 ao 10, o número é sorteado logo quando a página inicia e o jogo fala qual era o número depois de o jogador tentar 3 vezes.
+In the game we have an input that the user can choose from number 0 to 10, the number is drawn just when the page starts and the game tells what was the number after the player tried 3 times.
 
-Jogue aqui -> https://codepen.io/alisouzr/full/qBjpMxN
+<div style="display: inline_block">
+  <h4>Technologies Used</h4>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="SASS" height="30" width="70" src="https://miro.medium.com/max/1400/1*FeiTcE7xAIKhNrRa-2_oiQ.png">
+  </div>
+  <br>
+
+Play here -> https://codepen.io/alisouzr/full/qBjpMxN
