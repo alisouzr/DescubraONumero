@@ -11,7 +11,6 @@ In the game we have an input that the user can choose from number 0 to 10, the n
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="30" width="70" src="https://miro.medium.com/max/1400/1*FeiTcE7xAIKhNrRa-2_oiQ.png">
   </div>
   <br>
 
