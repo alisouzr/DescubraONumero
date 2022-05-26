@@ -14,4 +14,4 @@ In the game we have an input that the user can choose from number 0 to 10, the n
   </div>
   <br>
 
-Play here -> https://codepen.io/alisouzr/full/qBjpMxN
+Play here -> [https://codepen.io/alisouzr/full/qBjpMxN](https://replit.com/@alisouzr/SecretNumber?v=1)
