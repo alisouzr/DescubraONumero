@@ -1,0 +1,11 @@
+{
+  "name": "secret-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass ./sass:./css --watch --no-source-map"
+  },
+  "author": "aliny souza",
+  "license": "MIT"
+}
